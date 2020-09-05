@@ -5,7 +5,7 @@ using namespace std;
 
 char field[8][8];
 char choice, difficulty;
-int xPlayerPosition, yPlayerPosition, xTemp, yTemp, xKey, yKey, monsters, smartMonsters = 0,userScore;
+int xPlayerPosition, yPlayerPosition, xTemp, yTemp, xKey, yKey, monsters, smartMonsters = 0, userScore;
 int xMonster[40], yMonster[40], xSmartMonster[5], ySmartMonster[5];
 bool key = 0, keyExist = 1;
 string username;
