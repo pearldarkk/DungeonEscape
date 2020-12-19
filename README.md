@@ -8,6 +8,7 @@ This was my university club ISP's task for each of us, so, sorry for its poor gr
 - Monsters can move.
 - (maybe) hardcore if you choose Insane.
 - Added some color. (Thanks to [rlutil.h](https://github.com/tapio/rlutil) lib)
+- (low) score tables
 
 
 # NOTE:
