@@ -99,6 +99,7 @@ int main() {
     }
     Sleep(500);
     RollofHonour();
+    getch();
     return 0;
 }
 
