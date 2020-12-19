@@ -7,7 +7,7 @@ This was my university club ISP's task for each of us, so, sorry for its poor gr
 - The big monsters could take your key away.
 - Monsters can move.
 - (maybe) hardcore if you choose Insane.
-- Added some color. (Thanks to rlutil.h lib)
+- Added some color. (Thanks to [rlutil.h](https://github.com/tapio/rlutil) lib)
 
 # Some bugs:
 I've tried to code extra feature (high score records) but there were some bugs with my i/o with file in C++. I'll try to fix it.
