@@ -6,9 +6,10 @@ This was my university club ISP's task for each of us, so, sorry for its poor gr
 # Features:
 - The big monsters could take your key away.
 - Monsters can move.
+- Key can move too.
 - (maybe) hardcore if you choose Insane.
 - Added some color. (Thanks to [rlutil.h](https://github.com/tapio/rlutil) lib)
-- (low) score tables
+- (low) score table.
 
 
 # NOTE:
