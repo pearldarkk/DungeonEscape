@@ -13,4 +13,4 @@ This was my university club ISP's task for each of us, so, sorry for its poor gr
 
 
 # NOTE:
-You need the rlutil.h lib to compile the source code successfully. This repo also include .exe file.
+You need the rlutil.h lib to compile the source code successfully. This repo also includes .exe file.
