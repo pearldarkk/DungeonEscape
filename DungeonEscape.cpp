@@ -533,7 +533,7 @@ void DisplayRollofHonour(int x) {
          << endl;
 
     if (x < 20 && x != 0)
-        cout << "Congrat you on just become the new member of the Club!!"
+        cout << "Congrat you on just becoming the new member of the Club!!"
              << endl;
     else if (x == 0)
         cout << "Congrat you on being the new Chairman!!" << endl;
