@@ -3,7 +3,7 @@ One silly C++ game i coded.
 Try to escape the dungeon which is full of (not so) dangerous monsters.
 This was my university club ISP's task for each of us, so, sorry for its poor graphic.
 
-# Features:
+## Features:
 - The big monsters could take your key away.
 - Monsters can move.
 - Key can move too.
@@ -12,5 +12,5 @@ This was my university club ISP's task for each of us, so, sorry for its poor gr
 - (low) score table.
 
 
-# NOTE:
-You need the rlutil.h lib to compile the source code successfully. This repo also includes .exe file.
+## NOTE:
+You'll need the rlutil.h lib to compile the source code successfully. This repo also includes .exe file.
