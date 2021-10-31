@@ -1,7 +1,7 @@
 # DungeonEscape
 One silly C++ game i coded. 
 Try to escape the dungeon which is full of (not so) dangerous monsters.
-This was my university club ISP's task for each of us, so, sorry for its poor graphic.
+This was my university club ISP's training task for each of us, so, sorry for its poor graphic.
 
 ## Features:
 - The big monsters could take your key away.
